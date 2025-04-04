@@ -1,4 +1,10 @@
-Project for 1st Year 2nd Semester Praxis Programming under Keiran O'Leary.
-Goal is to make a game, ive decided to aim for a text adventure taking inspiraton from final fantasy like RPG games.
-This is my first proper venture in to C/C++, having to apply what i learned from the lectures or even learn a bit more than what was taught this year.
-I know its no masterpiece like others in the class might have made, but i learned alot from it, im proud of it and i think it's a good representation of my best abilities at this moment in time. (March 2025)
+How to compile the game:
+1. Download and install minGW, following the steps laid out on the website.
+2. Download the source code of the game, it will be a ".c" file which needs compiled to run.
+3. Open up a command prompt (search for it in the windows search bar or press win + r, then type in cmd and enter that)
+4. Change the directory to where the game download is, for example this can be done by running the command
+   "C:\Users\John> cd C:\Users\John\Downloads"
+  if the file is in the downloads folder.
+5. run the command 
+   "gcc game_source_code"
+   this will create an "a.exe" executable file which can run the game when clicked.
