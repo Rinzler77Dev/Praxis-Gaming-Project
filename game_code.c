@@ -5,6 +5,8 @@ INPUT:
 OUTPUT:
 */
 
+//https://github.com/Rinzler77Dev/Praxis-Gaming-Project.git
+//Above is a link to the repository.
 
 #include <stdio.h> // 
 #include <time.h> //used for random number generation
@@ -327,5 +329,3 @@ printf("Health restored to max!\n");
 inventory_potion += 1;
 dungeon();
 }
-
-//code by fox murray 2025
